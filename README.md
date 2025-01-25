@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elihuseyn-nagizade-690581331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elihuseyn-nagizade-690581331/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elihuseyn-nagizade-690581331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elihuseyn-nagizade-690581331/" height="30" width="40" /></a>
 <a href="https://instagram.com/nagizadealihuseyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nagizadealihuseyn" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/705773730197930024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codex.3" height="30" width="40" /></a>
 </p>
@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihuseynnagizade&show_icons=true&locale=en&layout=compact" alt="alihuseynnagizade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihuseynnagizade&" alt="alihuseynnagizade" /></p>
